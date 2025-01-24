@@ -2,6 +2,34 @@
 
 Eventify is a simple application that demonstrates the integration of Firebase with Angular, developed entirely in the cloud using [idx.dev](https://idx.dev). This repository accompanies the article series **"Building Modern Applications with Firebase and Angular in idx.dev"**, where we explore how to set up and build a real-time, serverless application step by step.
 
+Your previously outlined series is still excellent as it lays out a clear and progressive structure for covering Firebase and Angular integration. However, the updated outline I provided earlier is slightly condensed, focusing on the most critical aspects of Firebase and Angular for idx.dev users. Here’s a comparison and adjustment based on your original outline to better align with both:  
+
+### Series  
+
+1. [**Introduction to Firebase and Angular**](https://dev.to/this-is-angular/getting-started-with-firebase-and-angular-in-idxdev-49h6)  
+   Overview of Firebase features and Angular’s integration, highlighting benefits and use cases.  
+
+2. **Setting Up Firebase with Angular**  
+   Firebase project setup and AngularFire integration, focusing on idx.dev for cloud-based development.  
+
+3. **User Authentication**  
+   Setting up email/password and Google login authentication, and managing authentication states.  
+
+4. **Building CRUD Features with Firestore**  
+   Creating, reading, updating, and deleting events using Firestore, with real-world examples.  
+
+5. **File Uploads with Firebase Storage**  
+   Uploading and displaying event images or files, integrating Firebase Storage seamlessly.  
+
+6. **Real-Time Updates with Firestore Listeners**  
+   Implementing live updates for events, explaining Firestore listeners in AngularFire.  
+
+7. **Securing Your App**  
+   Setting up Firebase rules, role-based access control, and strategies for app security.  
+
+8. **Deploying the Application**  
+   Using idx.dev for deployment to Firebase Hosting or Vercel, including build optimization tips.  
+
 ## Features
 
 - Firebase integration using AngularFire.
