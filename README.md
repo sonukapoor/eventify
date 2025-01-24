@@ -102,7 +102,6 @@ src/
 
 ## Resources
 
-- **Article Series**: [Building Modern Applications with Firebase and Angular in idx.dev](https://your-article-link.com)
 - **Firebase Documentation**: [https://firebase.google.com/docs](https://firebase.google.com/docs)
 - **AngularFire Documentation**: [https://github.com/angular/angularfire](https://github.com/angular/angularfire)
 
