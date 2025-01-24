@@ -1,0 +1,7 @@
+<div>
+  <h1>Eventify</h1>
+  <p>Firebase Connected Successfully!</p>
+  <ul>
+    <li *ngFor="let event of events$ | async">{{ event.name }}</li>
+  </ul>
+</div>
